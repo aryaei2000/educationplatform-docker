@@ -1,4 +1,4 @@
-# Dockerized Education Platform
+ # Dockerized Education Platform
 This is a dockerized version of the education platform for trying out the platform locally.
 
 Further details on the platform can be found on the main [platform wiki page](https://github.com/mdenet/educationplatform/wiki).
